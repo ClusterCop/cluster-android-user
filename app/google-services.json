@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "423825283426",
+    "firebase_url": "https://cluster-f5bd2.firebaseio.com",
+    "project_id": "cluster-f5bd2",
+    "storage_bucket": "cluster-f5bd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423825283426:android:92edba229ec4e2fa36743b",
+        "android_client_info": {
+          "package_name": "com.cluster.taxiuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423825283426-3sjg2hmhirg715q4jrpatriv7a5glibv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cluster.taxiuser",
+            "certificate_hash": "05cf146c74f0bc6f0370fc9095991c9af5f5f21b"
+          }
+        },
+        {
+          "client_id": "423825283426-pibrnjo50j02e8hq229kjl7k4k243g53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLAQj0EbVmlnXU2eqX4LQhbK668aucyHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423825283426-pibrnjo50j02e8hq229kjl7k4k243g53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
